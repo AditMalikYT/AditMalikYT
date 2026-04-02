@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Adit — AI Architect
 
-<!--
-**AditMalikYT/AditMalikYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building automation systems, viral content engines, and AI-powered products — one clean deploy at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Active Ventures
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 Rice & Plants Bot | Telegram automation with intelligent triggers | Node.js, Telegram API |
+| 📹 Viral Facts Channel | YouTube Shorts AI pipeline | Remotion, FFmpeg |
+| 🌐 AI Website Service | Rapid sites for local businesses | React, Vercel |
+| 🎨 ALGO.ART | Generative art tool, 6 algorithmic modes | p5.js, Canvas API |
+
+---
+
+## Stack
+
+```
+Node.js · React · Python · p5.js · FFmpeg
+Remotion · Prompt Engineering · AI Automation · Photoshop
+```
+
+---
+
+## Portfolio
+
+🔗 [adit-opal.vercel.app](https://adit-opal.vercel.app)
+
+---
+
+*3 live ventures. 1 operator.*
