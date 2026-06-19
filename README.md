@@ -4,7 +4,7 @@
 
 ## Portfolio
 
-🔗 [My Portfolio](https://adit-opal.vercel.app)
+🔗 [My Portfolio](https://adit-mu.vercel.app/)
 
 <br>
 
